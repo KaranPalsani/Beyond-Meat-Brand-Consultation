@@ -4,7 +4,7 @@ Beyond Meat is a Los Angeles-based producer of plant-based meat substitutes foun
 
 Setting ourselves as brand consultants for "Beyond Meat", we ventured into measuring perception difference if any for their products with respect to both general public and customer base. Also evaluated how Beyond Meat fared comapred to their competitors in the vegan meat market in terms of public opinion.
 
-![alt text](https://github.com/snithin13/Beyond-Meat-Brand-Consultation/blob/master/Images/burger-intro.png)
+![alt text](https://github.com/KaranPalsani/Beyond-Meat-Brand-Consultation/blob/master/Images/burger-intro.png)
 
 ## Contributors:
 
